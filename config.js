@@ -42,25 +42,25 @@ const CONFIG = {
       id: '1',
       name: 'Github',
       icon: 'github',
-      link: 'https://github.com/',
+      link: 'https://github.com',
     },
     {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.protonmail.com',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com',
+      name: 'Roblox',
+      icon: 'meh',
+      link: 'https://roblox.com',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Googledrive',
+      icon: 'hard-drive',
+      link: 'https://drive.google.com/drive/my-drive',
     },
     {
       id: '5',
@@ -70,9 +70,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'Youtube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com',
     },
   ],
 
@@ -81,15 +81,15 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
+  firstListIcon: 'book-open',
   secondListIcon: 'coffee',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'webtop',
+        link: 'https://www.webtop.co.il/v2/?',
       },
       {
         name: 'Classic',
@@ -106,20 +106,20 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Netflix',
+        link: 'https://netflix.com',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: '9anime',
+        link: 'https://9anime.se',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'MyAnimeList',
+        link: 'https://myanimelist.net',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'AniMixPlay',
+        link: 'https://animixplay.to',
       },
     ],
   },
