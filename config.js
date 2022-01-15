@@ -88,20 +88,20 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'webtop',
+        name: 'Webtop',
         link: 'https://www.webtop.co.il/v2/?',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Classroom',
+        link: 'https://classroom.google.com/u/1/h',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'x',
+        link: 'X',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'X',
+        link: 'X',
       },
     ],
     secondList: [
