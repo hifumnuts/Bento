@@ -64,9 +64,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
+      name: 'twitter',
       icon: 'glasses',
-      link: 'https://reddit.com',
+      link: 'https://twitter.com',
     },
     {
       id: '6',
@@ -96,12 +96,12 @@ const CONFIG = {
         link: 'https://classroom.google.com/u/1/h',
       },
       {
-        name: 'x',
-        link: 'X',
+        name: 'campusIL',
+        link: 'https://campus.gov.il/',
       },
       {
-        name: 'X',
-        link: 'X',
+        name: 'petel',
+        link: 'https://petel.stweizmann.org.il/',
       },
     ],
     secondList: [
@@ -110,16 +110,16 @@ const CONFIG = {
         link: 'https://netflix.com',
       },
       {
-        name: '9anime',
-        link: 'https://9anime.se',
+        name: 'gogo',
+        link: 'https://anitaku.to',
       },
       {
         name: 'MyAnimeList',
         link: 'https://myanimelist.net',
       },
       {
-        name: 'AniMixPlay',
-        link: 'https://animixplay.to',
+        name: 'FMHY',
+        link: 'https://fmhy.net/',
       },
     ],
   },
