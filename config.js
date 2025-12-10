@@ -58,9 +58,9 @@ const CONFIG = {
     },
     {
       id: '4',
-      name: 'Googledrive',
+      name: 'local_server',
       icon: 'hard-drive',
-      link: 'https://drive.google.com/drive/my-drive',
+      link: 'http://192.168.1.60',
     },
     {
       id: '5',
